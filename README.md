@@ -12,14 +12,16 @@
 
 ## 🧭 Table of Contents
 
-- [Overview](#overview)
-- [Core Training Output](#core-training-output)
-- [Panel Feedback Summary](#panel-feedback-summary)
-- [Mermaid Visual Suggestions](#mermaid-visual-suggestions)
-- [Azure DevOps & Environment Setup](#azure-devops--environment-setup)
-- [Unit Testing Suggestions](#unit-testing-suggestions)
-- [Next-Level Enhancements](#next-level-enhancements)
-- [Credits](#credits)
+## 🧭 Table of Contents
+
+- [📚 Overview](#-overview)
+- [🧪 Core Training Output](#-core-training-output)
+- [🧠 Panel Feedback Summary](#-panel-feedback-summary)
+- [🖼️ Mermaid Visual Suggestions](#️-mermaid-visual-suggestions)
+- [☁️ Azure DevOps & Environment Setup](#️-azure-devops--environment-setup)
+- [🧪 Unit Testing Suggestions](#-unit-testing-suggestions)
+- [🚀 Next-Level Enhancements](#-next-level-enhancements)
+- [👥 Credits](#-credits)
 
 ---
 
