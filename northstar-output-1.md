@@ -4,9 +4,15 @@
 
 ```mermaid
 graph TD
-  A[SQL Server Database] --> B[REST API Layer (.NET or Flask)]
-  B --> C[RShiny App (Frontend)]
-  B --> D[API Testing Tools (Postman, Swagger)]
+  A[SQL Server Database]
+  B[REST API Layer (.NET or Flask)]
+  C[RShiny App (Frontend)]
+  D[API Testing Tools (Postman, Swagger)]
+
+  A --> B
+  B --> C
+  B --> D
+
 ```
 
 ---
