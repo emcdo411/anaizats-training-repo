@@ -3,15 +3,10 @@
 ## 1. Architecture Design
 
 ```mermaid
-graph TD
-  A[SQL Server Database]
-  B[REST API Layer (.NET or Flask)]
-  C[RShiny App (Frontend)]
-  D[API Testing Tools (Postman, Swagger)]
-
-  A --> B
-  B --> C
-  B --> D
+flowchart TD
+    A[SQL Server Database] --> B[REST API Layer<br/>(.NET Core or Flask)]
+    B --> C[RShiny App<br/>(Frontend Dashboard)]
+    B --> D[API Testing Tools<br/>(Postman, Swagger)]
 
 ```
 
