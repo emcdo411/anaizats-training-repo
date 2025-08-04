@@ -4,9 +4,9 @@
 
 ```mermaid
 flowchart TD
-    A[SQL Server Database] --> B[REST API Layer<br/>(.NET Core or Flask)]
-    B --> C[RShiny App<br/>(Frontend Dashboard)]
-    B --> D[API Testing Tools<br/>(Postman, Swagger)]
+    A[SQL Server Database] --> B[REST API Layer\\n(.NET Core or Flask)]
+    B --> C[RShiny App\\n(Frontend Dashboard)]
+    B --> D[API Testing Tools\\n(Postman, Swagger)]
 
 ```
 
